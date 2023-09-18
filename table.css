@@ -1,0 +1,6 @@
+.table th , .table td{
+    border: 2px solid #000000;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25%;
+}
