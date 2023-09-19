@@ -1,0 +1,54 @@
+
+body{
+    background-color: antiquewhite;
+}
+.left , .right , .center ,.class4 ,.class5{
+    background-color: #eaeaedb6;
+    
+}
+.left{
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    width: 30%;
+    height: 100px;
+}
+.center{
+    position: absolute;
+    top: 50px;
+    left: 34%;
+    width: 30%;
+    height: 100px;
+}
+.right{
+    position: absolute;
+    top: 50px;
+    left: 66%;
+    width: 30%;
+    height: 100px;
+}
+
+.class4{
+    position: absolute;
+    top: 250px;
+    left: 15px;
+    height: 100px;
+    width: 30%;
+}
+.class5{
+    position: absolute;
+    top: 250px;
+    left: 34% ;
+    height: 100px;
+    width: 30%;
+}
+.scroll{
+    position: absolute;
+    top: 160px;
+    height: 80px;
+    width: 99%;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    text-align: center; 
+    overflow-y: scroll;
+}
